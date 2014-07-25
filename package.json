@@ -8,6 +8,10 @@
     "dialog",
     "modal"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/malsup/blockui.git"
+  },
   "version": "2.55.0-2013.01.23",
   "author": {
     "name": "M. Alsup",
